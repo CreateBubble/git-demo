@@ -16,3 +16,4 @@ hello world
 test insert test modify
 web modify
 computercreator modify
+ssh_push_test
